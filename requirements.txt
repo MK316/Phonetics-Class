@@ -1,0 +1,19 @@
+streamlit
+qrcode
+numpy
+matplotlib
+wordcloud
+qrcode[pil]  # Ensures that qrcode is installed along with its pillow (PIL) dependency
+Pillow
+pytz
+gTTS
+pandas
+pydub
+imageio[ffmpeg]
+scipy
+plotly
+librosa
+soundfile
+speechrecognition
+python-levenshtein
+graphviz
